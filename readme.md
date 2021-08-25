@@ -35,3 +35,10 @@ cd frontend
 npm install
 npm run dev 
 ```
+
+## Скриншоты
+
+![screenshot](Screenshot_1.jpg "Скриншот")
+![screenshot](Screenshot_2.jpg "Скриншот")
+![screenshot](Screenshot_3.jpg "Скриншот")
+![screenshot](Screenshot_4.jpg "Скриншот")
